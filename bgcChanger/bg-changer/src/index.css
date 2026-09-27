@@ -1,0 +1,16 @@
+body{
+  background-color: #414141;
+  color: white;
+}
+button{
+  padding: 10px;
+  margin: 5px;
+}
+#container{
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
