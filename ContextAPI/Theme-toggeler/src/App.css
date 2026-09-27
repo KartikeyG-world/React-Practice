@@ -1,0 +1,31 @@
+.App{
+    background-color: #414141;
+    padding: 40px;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;    
+}
+#user_btn , #pass_btn{
+    padding: 10px 20px;
+    border-radius: 10px;
+    border: none;
+    background-color: #212121;
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+}
+#submit_btn{
+    padding: 10px 20px;
+    border-radius: 10px;
+    border: none;
+    background-color: #007bff;
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+}
+.login-container{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
